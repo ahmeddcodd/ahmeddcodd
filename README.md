@@ -1,7 +1,7 @@
 <div align="center">
 
 # Ahmed Arif
-### Turning business problems into web and AI solutions.
+### Building AI-powered products for real business impact.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ahmedarif.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://ahmedarif.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Arif-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedarif-)
