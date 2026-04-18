@@ -31,6 +31,9 @@ Currently open to **product engineering** and **AI-enabled application** work.
 **Backend & AI**
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-DC244C?style=flat-square)
 ![Modal](https://img.shields.io/badge/Modal-Serverless-black?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-LLM-6B21A8?style=flat-square)
 
