@@ -41,9 +41,9 @@ Currently open to **product engineering** and **AI-enabled application** work.
 | Project | Description | Stack | Live |
 |---|---|---|---|
 | 🏛️ **Pakistan Constitution RAG Chatbot** | Maps user scenarios to constitutional articles using a RAG pipeline | Next.js, FastAPI, Modal, Llama | [View →](https://pak-law.vercel.app) |
-| 🛍️ **FloAI for Shopify** | AI-powered assistant for Shopify store owners | React, AI integrations | Live |
-| 🏷️ **GBOB Services Landing Page** | High-conversion landing page for a services business | Next.js | Live |
-| 🎨 **Woolabs Agency Landing Page** | Creative agency website with modern UI | Next.js | Live |
+| 🛍️ **FloAI for Shopify** | AI-powered assistant for Shopify store owners | React, AI integrations | [View →](https://floai.space/) |
+| 🏷️ **GBOB Services Landing Page** | High-conversion landing page for a services business | Next.js | [View →](https://digital-marketing-website-sandy.vercel.app/) |
+| 🎨 **Woolabs Agency Landing Page** | Creative agency website with modern UI | Next.js | [View →](https://woolabs.free.nf/?i=1) |
 | 🤖 **AI Auction App (FYP)** | AI-driven auction platform built as Final Year Project | Full-Stack + AI | Live |
 
 ---
